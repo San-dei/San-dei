@@ -1,13 +1,55 @@
-<h1 align="center">Hola 👋, soy Max</h1>
-<h3 align="center">Programador Front-end.</h3>
+# Maximiliano Acuña
 
-- 📫 Contacto **thompssonlite@gmail.com**
+## Acerca de Mí
+Hola, mi nombre es Maximiliano Acuña. Soy un programador frontend especializado en el uso del framework Next.js. Tengo experiencia en la creación y mantenimiento de páginas web.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/desarrollador-maximiliano-ezequiel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/desarrollador-maximiliano-ezequiel/" height="30" width="40" /></a>
-</p>
+## Experiencia Profesional
+### Desarrollo Web
+- **Rol**: Programador Frontend Junior
+- **Responsabilidades**:
+  - Creación de páginas web.
+  - Mantenimiento y actualización de sitios existentes.
+  - Implementación de nuevas funcionalidades y mejoras en la experiencia del usuario.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Educación
+- **Autodidacta**
+  - Me he formado de manera autodidacta utilizando diversas plataformas de aprendizaje en línea como Udemy y YouTube, así como con la ayuda de profesores particulares.
 
+## Habilidades
+### Soft Skills
+- Comunicación interpersonal.
+- Paciencia.
+- Trabajo en equipo.
+
+### Habilidades Técnicas
+- **Lenguajes de Programación**:
+  - HTML
+  - CSS
+  - JavaScript
+  - TypeScript
+- **Frameworks y Librerías**:
+  - React
+  - Next.js
+  - Zustand
+- **Herramientas**:
+  - GitHub
+  - JSDocs
+
+## Contacto
+- **Correo Electrónico**: [thompssonlite@gmail.com](mailto:thompssonlite@gmail.com)
+- **LinkedIn**: [Mi Perfil de LinkedIn](https://www.linkedin.com/in/desarrollador-maximiliano-ezequiel/)
+
+## Proyectos
+### Proyecto 1: [Nombre del Proyecto](URL del Proyecto)
+- Descripción breve del proyecto y tus contribuciones.
+
+### Proyecto 2: [Nombre del Proyecto](URL del Proyecto)
+- Descripción breve del proyecto y tus contribuciones.
+
+## Intereses
+- Programación
+- Desarrollo web
+- Aprendizaje continuo
+
+## Referencias
+- Disponibles bajo petición.
