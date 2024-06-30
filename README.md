@@ -38,7 +38,7 @@ Hola, mi nombre es Maximiliano Acuña. Soy un programador frontend especializado
 ## Contacto
 - **Correo Electrónico**: [thompssonlite@gmail.com](mailto:thompssonlite@gmail.com)
 - **LinkedIn**: [Mi Perfil de LinkedIn](https://www.linkedin.com/in/desarrollador-maximiliano-ezequiel/)
-- **WhatsApp**: [Mi numero](+54 1125318605)
+- **WhatsApp**: +54 1125318605
 
 ## Intereses
 - Programación
