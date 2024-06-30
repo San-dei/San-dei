@@ -28,8 +28,8 @@ Hola, mi nombre es Maximiliano Acuña. Soy un programador frontend especializado
   - JavaScript
   - TypeScript
 - **Frameworks y Librerías**:
-  - React
-  - Next.js
+  - React 
+  - Next.js (especializacion)
   - Zustand
 - **Herramientas**:
   - GitHub
